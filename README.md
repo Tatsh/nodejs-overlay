@@ -1,5 +1,5 @@
 # To install with layman
 
 ```bash
-layman -o http://tatsh.github.com/nodejs-overlay/layman.xml -fa tatsh-overlay
+layman -o https://raw.github.com/Tatsh/nodejs-overlay/master/layman.xml -fa nodejs-overlay
 ```
